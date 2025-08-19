@@ -1,6 +1,7 @@
-# ติดตั้งอินเตอร์เน็ตให้โรงเรียนบ้านเกาะอาดัง
-## ฝ่ายเน็ทเวิร์ค
- - รับผิดชอบติดตั้ง 2 อาคาร
+# จัดค่ายสร้างเยาวชนสู่เทคโนโลยี ครั้งที่ 6
+จัดกิจกรรมติดตั้งระบบเครือข่ายคอมพิวเตอร์ ให้กับโรงเรียนบ้านเกาะหลีเป๊ะ อำเภอเมืองสตูล จังหวัดสตูล
+## กิจกรรมด้านเครือข่าย
+ - ติดตั้งและขยายเครือข่ายอินเทอร์เน็ต
 ## ภาพกิจกรรม
 ![LINE_ALBUM_24467 วันที่3_250819_1](https://github.com/user-attachments/assets/a28dbb2e-f331-4e86-bfe0-d0bf313f2dfd)
 ![LINE_ALBUM_24467 วันที่3_250819_2](https://github.com/user-attachments/assets/5e31cf3e-de58-4ba8-95b5-89c78ec0838b)
@@ -9,7 +10,6 @@
 ![LINE_ALBUM_26467 วันที่5_250819_1](https://github.com/user-attachments/assets/0989d918-1c60-46a9-bdad-29a45503fa1e)
 ![LINE_ALBUM_26467 วันที่5_250819_2](https://github.com/user-attachments/assets/9a7e7a8e-1e8d-4bd1-88ea-5ba79fa8d3db)
 ![LINE_ALBUM_26467 วันที่5_250819_3](https://github.com/user-attachments/assets/26f087af-4160-4a0f-adb4-3d409849ba0b)
-![LINE_ALBUM_26467 วันที่5_250819_4](https://github.com/user-attachments/assets/8d2c59ba-981b-486e-aa11-a2ce50cf7bb2)
 ![LINE_ALBUM_26467 วันที่5_250819_5](https://github.com/user-attachments/assets/fc81d15e-871e-4926-9d12-e3438e27b15d)
 ![LINE_ALBUM_26467 วันที่5_250819_6](https://github.com/user-attachments/assets/9391428e-a608-4194-bfa6-520408ef3554)
 ![LINE_ALBUM_26467 วันที่5_250819_7](https://github.com/user-attachments/assets/56604298-7833-405b-bbea-f66268c1768f)
